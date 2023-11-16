@@ -1,1 +1,1 @@
-Interpreter for montybytes code
+interpreter for Monty ByteCodes files
